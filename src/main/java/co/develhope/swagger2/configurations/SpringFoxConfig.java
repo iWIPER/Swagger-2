@@ -39,4 +39,5 @@ public class SpringFoxConfig {
                         new Tag("math-controller", "Controller dedicated just to API > math operations")
                 );
     }
+
 }
